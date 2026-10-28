@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+.ipynb_checkpoints/
+.cache/
+
+output/
+runs/
+
+data/audio/
+input/*
+!input/.gitkeep
